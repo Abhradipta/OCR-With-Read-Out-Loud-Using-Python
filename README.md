@@ -6,7 +6,9 @@ The system takes the image file as input and runs an optical character recogniti
 
 This is a simple OCR created using Python with an additional feature of reading the text present within the image out loud.
 
-Required Modules The following modules are needed to be imported in Python 3.8 codebase:
+
+
+Required Modules: The following modules are needed to be imported in Python 3.8 codebase:
 
 OpenCV 3.2.0 (cv2): This module is used for detection of image.
 
@@ -15,5 +17,7 @@ Pytesseract: This module is used to run the optical character recognition on the
 Google Text To Speech (gTTS): This module is used to convert the text to speech.
 
 Playsound: This module is used to play the audio.
+
+
 
 Technology: Python | OpenCV | Google Tesseract OCR Engine | Computer Vision | Natural Language Processing (NLP) | Google Test To Speech(gTTS)
