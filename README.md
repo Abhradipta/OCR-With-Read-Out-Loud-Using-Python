@@ -20,4 +20,4 @@ Playsound: This module is used to play the audio.
 
 
 
-# Technology: Python | OpenCV | Google Tesseract OCR Engine | Computer Vision | Natural Language Processing (NLP) | Google Test To Speech(gTTS)
+Technology: Python | OpenCV | Google Tesseract OCR Engine | Computer Vision | Natural Language Processing (NLP) | Google Test To Speech(gTTS)
